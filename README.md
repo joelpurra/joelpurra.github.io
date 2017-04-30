@@ -7,7 +7,10 @@
   <a href="https://joelpurra.com/donate/"><kbd>More options</kbd></a>
 </p>
 
-Serving demos and tests for projects on https://joelpurra.github.io/ (which used to be https://joelpurra.github.com/)
+**Most pages redirects to https://joelpurra.com/projects/ instead, where the projects pages live now.**
+
+Serving demos and tests for projects on https://joelpurra.github.io/ (which used to be https://joelpurra.github.com/).
+
 
 
 
