@@ -1,4 +1,4 @@
-# [joelpurra.github.com](https://github.com/joelpurra/joelpurra.github.com)
+# [joelpurra.github.io](https://github.com/joelpurra/joelpurra.github.io)
 
 <p class="donate">
   <a href="https://joelpurra.com/donate/proceed/?amount=5&currency=usd"><kbd>Donate $5 now</kbd></a>
@@ -9,7 +9,7 @@
 
 **Most pages redirects to https://joelpurra.com/projects/ instead, where the projects pages live now.**
 
-Serving demos and tests for projects on https://joelpurra.github.io/ (which used to be https://joelpurra.github.com/).
+Serving demos and tests for projects on https://joelpurra.github.io/ (which used to be https://joelpurra.github.io/).
 
 
 
@@ -20,4 +20,4 @@ Serving demos and tests for projects on https://joelpurra.github.io/ (which used
 
 Copyright &copy; 2012, 2013, 2014, 2014, 2015, 2016, 2017, [Joel Purra](https://joelpurra.com/) All rights reserved.
 
-When using [joelpurra.github.com](https://github.com/joelpurra/joelpurra.github.com), comply with the [Do What the Fuck You Want to Public License (WTFPL)](http://www.wtfpl.net/). [Your donations are appreciated!](https://joelpurra.com/donate/)
+When using [joelpurra.github.io](https://github.com/joelpurra/joelpurra.github.io), comply with the [Do What the Fuck You Want to Public License (WTFPL)](http://www.wtfpl.net/). [Your donations are appreciated!](https://joelpurra.com/donate/)
